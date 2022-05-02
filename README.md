@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Plucky Pokemon
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A practice e-commerce web app where passionate people can choose their own
+plucky pokemon to take home and provide a plush place for them.
 
 ## Available Scripts
 
